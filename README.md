@@ -24,3 +24,5 @@ This repository contains the implementation for the paper titled "Segmentation o
    ```bash
    git clone https://github.com/kabbas570/segmentation-aortic-vessel.git
    cd segmentation-aortic-vessel
+2. **Cite This Paper:**
+Khan, A. et al. (2024). Misclassification Loss for Segmentation of the Aortic Vessel Tree. In: Pepe, A., Melito, G.M., Egger, J. (eds) Segmentation of the Aorta. Towards the Automatic Segmentation, Modeling, and Meshing of the Aortic Vessel Tree from Multicenter Acquisition. SEGA 2023. Lecture Notes in Computer Science, vol 14539. Springer, Cham. https://doi.org/10.1007/978-3-031-53241-2_6
