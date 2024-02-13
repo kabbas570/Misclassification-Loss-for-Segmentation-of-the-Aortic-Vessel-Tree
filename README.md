@@ -1,6 +1,6 @@
 # Segmentation of Aortic Vessel Tree with Misclassification Loss
 <img width="1406" alt="img2" src="https://github.com/kabbas570/Misclassification-Loss-for-Segmentation-of-the-Aortic-Vessel-Tree/assets/56618776/4dc622d7-0485-4b93-8b07-841050812756">
-
+<img width="967" alt="img1" src="https://github.com/kabbas570/LAScarQS2022/assets/56618776/7bee0e4c-858d-42c5-919e-4feb1403031f">
 ## Overview
 
 This repository contains the implementation for the paper titled "Segmentation of Aortic Vessel Tree with Misclassification Loss." The paper proposes a novel Misclassification Loss (MC loss) function, along with a differentiable eXclusive OR (XOR) operation, to improve image segmentation performance, specifically focusing on the aortic vessel tree.
