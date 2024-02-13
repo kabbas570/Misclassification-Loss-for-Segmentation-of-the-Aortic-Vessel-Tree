@@ -1,4 +1,5 @@
 # Segmentation of Aortic Vessel Tree with Misclassification Loss
+<img width="1406" alt="img2" src="https://github.com/kabbas570/Misclassification-Loss-for-Segmentation-of-the-Aortic-Vessel-Tree/assets/56618776/4dc622d7-0485-4b93-8b07-841050812756">
 
 ## Overview
 
